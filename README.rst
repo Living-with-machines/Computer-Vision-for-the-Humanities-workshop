@@ -1,6 +1,6 @@
 .. raw:: html
    
-   <h1><img src="figs/circle-cropped.png" alt="camera" width="10%" /> Computer Vision for the Humanities</h1>
+   <h1><img src="figs/circle-cropped.png" alt="camera" width="5%" /> Computer Vision for the Humanities</h1>
 
 
 
