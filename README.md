@@ -1,1 +1,1 @@
-# introduction-to-computer-vision-workshop
+# Computer Vision for the Humanities workshop
