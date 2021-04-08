@@ -1,11 +1,11 @@
-===============================
 Computer Vision for the Humanities workshop
-===============================
+===========================================
 
 
+.. raw:: html
 
-What this workshop covers
-=========================
+   <p align="center"><img alt="logo" src="figs/circle-cropped.png" width="10%" /></p>
+
 
 Materials
 =========
