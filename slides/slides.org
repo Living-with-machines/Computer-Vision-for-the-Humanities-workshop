@@ -1,0 +1,50 @@
+#+startup: beamer
+#+LaTeX_CLASS: beamer
+#+LaTeX_CLASS_OPTIONS: [bigger]
+#+latex_header: \mode<beamer>{\usetheme{metropolis}}
+#+TITLE:    Introduction to Computer Vision for Humanities Research
+#+AUTHOR:    Daniel van Strien
+#+EMAIL:     daniel.van-strien@bl.uk
+
+
+* Aims
+- Introduce computer vision methods for classifying images using deep learning
+- Show some example uses of computer vision in Digital Humanities/GLAM (Galleries, Libraries, Archives, Museums) setting
+- The process of training a model
+- Thinking about labels
+- Give a starting point for exploring the topic
+
+* Disclaimer
+
+- You will not know computer vision by the end of this session
+- The course uses Python but it is not necessary to follow every step of the code
+- The course is a work in progress, any feedback on how useful it is (or not) would be hugely helpful
+- The lesson from which this material is derived is under review and likely to change
+- Some of the materials were developed in the context of Living with Machines
+
+
+* Computer vision
+
+"Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos. From the perspective of engineering, it seeks to understand and automate tasks that the human visual system can do." -- [[wikipedia:https://en.wikipedia.org/wiki/Computer_vision][Wikipedia]]
+
+
+* Machine learning
+
+"Machine learning (ML) is the study of computer algorithms that improve automatically through experience and by the use of data." -- [[wikipedia:https://en.wikipedia.org/wiki/Machine_learning][Wikipedia]]
+
+
+* Deep learning
+
+"Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning." -- [[https://en.wikipedia.org/wiki/Deep_learning][Wikipedia]]
+
+* Computer vision for humanities
+
+Optical Character Recognition:
+- Process of turning images of text into machine readable text
+- Often the only feasible way for turning large amounts of digitised material into machine readable text.
+
+* Projects and papers
+
+-[[https://doi.org/10.1093/llc/fqy085][ The visual digital turn: Using neural networks to study historical images]]
+- [[https://www.distantviewing.org/]]
+- https://livingwithmachines.ac.uk/
