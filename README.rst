@@ -7,10 +7,18 @@ This workshop aims to provide an introduction to computer vision aimed for human
 In particular this workshop focuses on providing a high level overivew of machine learning based approaches to computer vision focusing on supervised learning. The workshop includes discussion on working with historical data. 
 The materials are based on in progress `Programming Historian <https://programminghistorian.org/>`_ lessons.
 
+Blurb
+=====
+Over the last 10 years, the field of computer vision, which seeks to gain a high-level understanding of images using computational techniques, has seen rapid innovation. For example, computer vision models are able to locate and identify people, animals and thousands of objects on images with high levels of accuracy. This technological innovation promises the same innovation for images that the combination of Optical Character Recognition/NLP (Natural language processing) techniques caused for texts. They open up a part of the digital archive for large-scale analysis, which, until now, has been left uncovered: the millions of images in digitized books, newspapers, periodicals, and historical documents. 
 
+This workshop will:
+- Provide an introduction to deep learning based computer vision methods for humanities research.
+- Give an overview of the steps involved in training a deep learning model.
+- Discuss some of the specific considerations around using deep learning/computer vision for humanities research.
+- Help you decide whether deep learning might be a useful tool for you.
 
 Materials
-=========
+==========
 
 .. materials-begin
 - Slides
