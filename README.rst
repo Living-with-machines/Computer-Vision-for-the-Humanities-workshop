@@ -15,7 +15,7 @@ Materials
 .. materials-begin
 - Slides
 - `Notebook one <https://github.com/davanstrien/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt1.ipynb>`_
-.. materoals-end
+.. materials-end
 
 
 Newspaper Navigator
