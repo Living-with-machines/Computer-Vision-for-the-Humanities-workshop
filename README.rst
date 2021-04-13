@@ -53,3 +53,6 @@ This workshops makes use of the Newspaper Navigator dataset. This dataset "consi
 .. raw:: html
 
    <p align="left"><img alt="newspaper image" src="https://news-navigator.labs.loc.gov/static/labs/work/experiments/images/nnavigator-logo-cropped.jpg" width="50%" /></p>
+   
+
+   Credit: This project, funded by the UK Research and Innovation (UKRI) Strategic Priority Fund, is a multidisciplinary collaboration delivered by the Arts and Humanities Research Council (AHRC), with The Alan Turing Institute, the British Library and the Universities of Cambridge, East Anglia, Exeter, and Queen Mary University of London.
