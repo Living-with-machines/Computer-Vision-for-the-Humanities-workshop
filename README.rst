@@ -36,6 +36,7 @@ Materials
 
 - Slides
 - `Notebook one <https://colab.research.google.com/github/davanstrien/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt1.ipynb>`_
+- `Notebook two <https://colab.research.google.com/github/Living-with-machines/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt2.ipynb>`_
 
 .. materials-end
 
