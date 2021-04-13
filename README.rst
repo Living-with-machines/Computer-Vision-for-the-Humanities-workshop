@@ -25,9 +25,9 @@ Schedule
 - 13:30: Introduction
 - 13:45: Start notebook 1
 - 14:30: Break
-- 14:45: Continue notebook 1
+- 14:45: Continue notebook 1 maybe notebook 2
 - 15:45: Break
-- 16:00: Conclusion (maybe overview of notebook 2)
+- 16:00: Conclusion 
 
 Materials
 ==========
