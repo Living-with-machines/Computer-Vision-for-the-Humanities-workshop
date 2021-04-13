@@ -48,3 +48,9 @@ Optical Character Recognition:
 - The visual digital turn: Using neural networks to study historical images [[https://doi.org/10.1093/llc/fqy085]]
 - [[https://www.distantviewing.org/][Distant Viewing Lab]]
 - [[https://livingwithmachines.ac.uk][Living with Machines]]
+
+* Programming Historian
+
+- Online peer-reviewed journal focused on publishing tutorials aimed at helping humanities researchers develop technical skills
+- Currently lessons published in English, French, Spanish and Portugese
+- The material we'll mostly work with today is based on an in-progress programming historian lesson
