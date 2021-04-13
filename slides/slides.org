@@ -45,6 +45,6 @@ Optical Character Recognition:
 
 * Projects and papers
 
--[[https://doi.org/10.1093/llc/fqy085][ The visual digital turn: Using neural networks to study historical images]]
-- [[https://www.distantviewing.org/]]
-- https://livingwithmachines.ac.uk/
+- The visual digital turn: Using neural networks to study historical images [[https://doi.org/10.1093/llc/fqy085]]
+- [[https://www.distantviewing.org/][Distant Viewing Lab]]
+- [[https://livingwithmachines.ac.uk][Living with Machines]]
