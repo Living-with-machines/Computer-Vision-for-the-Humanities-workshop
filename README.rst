@@ -1,7 +1,11 @@
+
 .. raw:: html
 
    <h1><img src="figs/circle-cropped.png" alt="camera" width="5%" /> Computer Vision for the Humanities</h1>
 
+
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.4740229.svg
+   :target: https://doi.org/10.5281/zenodo.4740228
 
 This workshop aims to provide an introduction to computer vision aimed for humanities applications.
 In particular this workshop focuses on providing a high level overivew of machine learning based approaches to computer vision focusing on supervised learning. The workshop includes discussion on working with historical data.
