@@ -19,15 +19,6 @@ This workshop will:
 - Discuss some of the specific considerations around using deep learning/computer vision for humanities research.
 - Help you decide whether deep learning might be a useful tool for you.
 
-Schedule
-========
-
-- 13:30: Introduction
-- 13:45: Start notebook 1
-- 14:30: Break
-- 14:45: Continue notebook 1 maybe notebook 2
-- 15:45: Break
-- 16:00: Conclusion 
 
 Materials
 ==========
@@ -35,8 +26,7 @@ Materials
 .. materials-begin
 
 - Slides
-- `Notebook one <https://colab.research.google.com/github/davanstrien/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt1.ipynb>`_
-- `Notebook two <https://colab.research.google.com/github/Living-with-machines/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt2.ipynb>`_
+- `Notebook <https://colab.research.google.com/github/davanstrien/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt1.ipynb>`_
 
 .. materials-end
 
