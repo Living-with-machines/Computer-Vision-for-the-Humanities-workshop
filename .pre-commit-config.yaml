@@ -5,3 +5,8 @@ repos:
     -   id: check-yaml
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
+- repo: https://github.com/nbQA-dev/nbQA
+  rev: 1.1.1
+  hooks:
+    - id: nbqa-black
+      additional_dependencies: [black==20.8b1]
