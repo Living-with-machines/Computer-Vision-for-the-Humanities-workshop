@@ -32,6 +32,23 @@ To explore some of the steps involved in creating a computer vision project we w
 - finding existing models.
 - test an existing model?
 
+## Exploring vision API services
+
+> - Explore the predictions made by the [Google Cloud Vision](https://cloud.google.com/vision) API service or [Azure Computer Vision](https://azure.microsoft.com/en-gb/services/cognitive-services/computer-vision/#features) API with some historic images
+> - Look at the labels this API predicts for your image. 
+> - How might these labels be useful?
+> - Are there any problems with the labels shown?
+> - Can you find a list of possible labels that this service could predict for an image?
+
+## Model hubs
+
+![](figs/hf_hub.png)
+
+## A more specific model: trying out a YOLO model
+
+![](figs/hf_hub_object_detection.png)
+
+
 ### Creating training data (simple approach)
 
 This is often seen as the most boring part of machine learning but it's both important and potentially an interesting and challenging area to explore. 
