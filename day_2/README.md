@@ -19,7 +19,7 @@ To explore some of the steps involved in creating a computer vision project we w
 
 > How does the number of people appearing in photographs change over time in (mostly) US newspapers?
 
-![](Example images/ct_inxs_ver01_data_sn82014519_00414183542_1930053001_0603_016_0_93.jpg)
+![](example_images/ct_inxs_ver01_data_sn82014519_00414183542_1930053001_0603_016_0_93.jpg)
 
 ### Do we need to use machine learning?
 
