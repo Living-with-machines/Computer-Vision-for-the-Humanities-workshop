@@ -29,8 +29,8 @@ Materials
 
 .. materials-begin
 
-- `Notebook <https://colab.research.google.com/github/davanstrien/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt1.ipynb>`_
-
+- `00_Notebook <https://colab.research.google.com/github/Living-with-machines/Computer-Vision-for-the-Humanities-workshop/blob/main/0a_computer_vision_for_the_humanities.ipynb>`_
+- `01_Notebook <https://colab.research.google.com/github/davanstrien/introduction-to-computer-vision-workshop/blob/main/cv-deep-learning-pt1.ipynb>`_
 .. materials-end
 
 The Data
