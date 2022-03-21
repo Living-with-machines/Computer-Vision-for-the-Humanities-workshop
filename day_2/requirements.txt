@@ -1,0 +1,5 @@
+datasets
+nnanno
+fastai>=2.0.0
+ipywidgets
+pigeonXT-jupyter
