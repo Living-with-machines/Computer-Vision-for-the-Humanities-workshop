@@ -8,6 +8,8 @@
   - a training dataset
   - a trained model
 
+# Practical steps
+
 
 ##  What does a computer vision project look like?
 
@@ -15,11 +17,6 @@
 
 ###  What is our question?
 
-To explore some of the steps involved in creating a computer vision project we will make up a research question/topic:
-
-> How does the number of people appearing in photographs change over time in (mostly) US newspapers?
-
-![](example_images/ct_inxs_ver01_data_sn82014519_00414183542_1930053001_0603_016_0_93.jpg)
 
 ### Do we need to use machine learning?
 
@@ -51,13 +48,31 @@ To explore some of the steps involved in creating a computer vision project we w
 
 ### Creating training data (simple approach)
 
-This is often seen as the most boring part of machine learning but it's both important and potentially an interesting and challenging area to explore. 
 
-Notebook
+### Creating training data (without much annotation)
+
 
 ### Creating training data
 - Annotation platforms
 - Zooniverse 
+
+
+## How to share data
+Datasheets for datasets
+
+## How to share our model 
+
+## Other topics
+
+# Image similarity 
+https://www.sbert.net/examples/applications/image-search/README.html
+https://colab.research.google.com/drive/1wLiZNedMwlM-FxBVbp3aA353yohV_wJ1?usp=sharing
+
+### Image Clustering
+
+https://github.com/UKPLab/sentence-transformers/tree/master/examples/applications/image-search/Image_Clustering.ipynb
+
+
 
 
 
