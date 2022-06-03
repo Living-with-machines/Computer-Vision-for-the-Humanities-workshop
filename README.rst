@@ -53,6 +53,6 @@ You can also find data dervided from the Newspaper Navigator datasets on Zenodo:
 - https://doi.org/10.5281/zenodo.5838410
 - https://doi.org/10.5281/zenodo.4487141
 
-
+You may also want to checkout `nnanno <https://github.com/Living-with-machines/nnanno>`_ which was used to develop these datasets. 
 
    Credit: This project, funded by the UK Research and Innovation (UKRI) Strategic Priority Fund, is a multidisciplinary collaboration delivered by the Arts and Humanities Research Council (AHRC), with The Alan Turing Institute, the British Library and the Universities of Cambridge, East Anglia, Exeter, and Queen Mary University of London.
